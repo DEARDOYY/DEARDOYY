@@ -7,7 +7,7 @@
   
 :fire: **My Skill** 
 
-`PHP` `Javascript` `Golang` `Angular` `Flutter` `jQuery` `NodeJs` `SQL` `PL/SQL`
+`PHP` `Javascript` `Golang` `Angular` `Flutter` `jQuery` `NodeJs` `SQL` `PL/SQL` `RestAPI` `CSS` `HTML`
 
 :hammer_and_wrench: **Tools** 
 
