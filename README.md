@@ -7,8 +7,8 @@
   
 :fire: **My Skill** 
 
-`PHP` `Javascript` `Golang` `Angular` `Flutter` `jQuery` `NodeJs` `SQL` `PL/SQL` `RestAPI` `CSS` `HTML`
+`PHP` `Javascript` `Golang` `Angular` `Flutter` `jQuery` `NodeJs` `SQL` `PL/SQL` `RestAPI` `CSS` `HTML` `Ionic`
 
 :hammer_and_wrench: **Tools** 
 
-`Oracle` `Firebase` `Postman` `Github` `Git Copilot` `MongoDB` `SQL Server` `Line Developer`
+`Oracle` `Firebase` `Postman` `Git` `Github Copilot` `MongoDB` `SQL Server` `Line Developer` `PostgreSQL` `Xcode` `Redis` `PostgreSQL`
