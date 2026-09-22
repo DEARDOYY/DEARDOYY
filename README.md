@@ -7,11 +7,25 @@
   
 :fire: **My Skill** 
 
-`PHP` `CakePHP` `Javascript` `jQuery` `CSS` `HTML` `Angular` `NodeJs` `SQL` `PL/SQL` `RestAPI` `Ionic` `Golang` `Flutter`
+**Frontend**
+`Javascript` `jQuery` `CSS` `HTML` `Angular`
 
-:hammer_and_wrench: **Tools** 
+**Backend**
+`PHP` `CakePHP` `NodeJs` `Golang` `RestAPI` `SQL` `PL/SQL`
 
-`Oracle` `Firebase` `Postman` `Git` `Github Copilot` `MongoDB` `SQL Server` `Line Developer` `PostgreSQL` `Xcode` `Redis` `PostgreSQL`
+**Mobile**
+`Ionic` `Flutter`
+
+:hammer_and_wrench: **Tools**
+
+**Backend / Database**
+`Oracle` `PostgreSQL` `SQL Server` `MongoDB` `Redis`
+
+**Mobile**
+`Xcode` `Firebase` `Line Developer`
+
+**General**
+`Git` `Postman` `Github Copilot` `Bruno` `Docker`
 
 :robot: **AI Tools**
 
