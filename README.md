@@ -4,6 +4,7 @@
 - :computer: Full Stack Developer
 - 📚 Currently learning golang gin on RestAPI 
 - 🌏 Based in Bangkok
+- `Thai (Native)` `English (A2)`
   
 :fire: **My Skill** 
 
